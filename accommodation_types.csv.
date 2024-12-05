@@ -1,0 +1,11 @@
+code,region,type,value
+E92000001,England,Detached,22.9
+E92000001,England,Semi-detached,31.5
+E92000001,England,Terraced,23.0
+E92000001,England,Flat/Apartment,22.2
+E92000001,England,Mobile/Temporary,0.4
+W92000004,Wales,Detached,28.5
+W92000004,Wales,Semi-detached,32.1
+W92000004,Wales,Terraced,26.6
+W92000004,Wales,Flat/Apartment,12.5
+W92000004,Wales,Mobile/Temporary,0.3
