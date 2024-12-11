@@ -1,0 +1,182 @@
+[
+  {
+    "local authority name": "City of London",
+    "category": "none",
+    "value": 3789
+  },
+  {
+    "local authority name": "City of London",
+    "category": "one",
+    "value": 946
+  },
+  {
+    "local authority name": "City of London",
+    "category": "two",
+    "value": 125
+  },
+  {
+    "local authority name": "City of London",
+    "category": "three or more",
+    "value": 44
+  },
+  {
+    "local authority name": "Abbey",
+    "category": "none",
+    "value": 950
+  },
+  {
+    "local authority name": "Abbey",
+    "category": "one",
+    "value": 412
+  },
+  {
+    "local authority name": "Abbey",
+    "category": "two",
+    "value": 79
+  },
+  {
+    "local authority name": "Abbey",
+    "category": "three or more",
+    "value": 12
+  },
+  {
+    "local authority name": "Alibon",
+    "category": "none",
+    "value": 1086
+  },
+  {
+    "local authority name": "Alibon",
+    "category": "one",
+    "value": 1518
+  },
+  {
+    "local authority name": "Alibon",
+    "category": "two",
+    "value": 583
+  },
+  {
+    "local authority name": "Alibon",
+    "category": "three or more",
+    "value": 156
+  },
+  {
+    "local authority name": "Barking Riverside",
+    "category": "none",
+    "value": 1060
+  },
+  {
+    "local authority name": "Barking Riverside",
+    "category": "one",
+    "value": 1777
+  },
+  {
+    "local authority name": "Barking Riverside",
+    "category": "two",
+    "value": 465
+  },
+  {
+    "local authority name": "Barking Riverside",
+    "category": "three or more",
+    "value": 89
+  },
+  {
+    "local authority name": "Beam",
+    "category": "none",
+    "value": 900
+  },
+  {
+    "local authority name": "Beam",
+    "category": "one",
+    "value": 1237
+  },
+  {
+    "local authority name": "Beam",
+    "category": "two",
+    "value": 445
+  },
+  {
+    "local authority name": "Beam",
+    "category": "three or more",
+    "value": 117
+  },
+  {
+    "local authority name": "Becontree",
+    "category": "none",
+    "value": 910
+  },
+  {
+    "local authority name": "Becontree",
+    "category": "one",
+    "value": 1409
+  },
+  {
+    "local authority name": "Becontree",
+    "category": "two",
+    "value": 567
+  },
+  {
+    "local authority name": "Becontree",
+    "category": "three or more",
+    "value": 188
+  },
+  {
+    "local authority name": "Chadwell Heath",
+    "category": "none",
+    "value": 1490
+  },
+  {
+    "local authority name": "Chadwell Heath",
+    "category": "one",
+    "value": 2144
+  },
+  {
+    "local authority name": "Chadwell Heath",
+    "category": "two",
+    "value": 927
+  },
+  {
+    "local authority name": "Chadwell Heath",
+    "category": "three or more",
+    "value": 267
+  },
+  {
+    "local authority name": "Eastbrook & Rush Green",
+    "category": "none",
+    "value": 809
+  },
+  {
+    "local authority name": "Eastbrook & Rush Green",
+    "category": "one",
+    "value": 1297
+  },
+  {
+    "local authority name": "Eastbrook & Rush Green",
+    "category": "two",
+    "value": 711
+  },
+  {
+    "local authority name": "Eastbrook & Rush Green",
+    "category": "three or more",
+    "value": 241
+  },
+  {
+    "local authority name": "Eastbury",
+    "category": "none",
+    "value": 1881
+  },
+  {
+    "local authority name": "Eastbury",
+    "category": "one",
+    "value": 2274
+  },
+  {
+    "local authority name": "Eastbury",
+    "category": "two",
+    "value": 880
+  },
+  {
+    "local authority name": "Eastbury",
+    "category": "three or more",
+    "value": 169
+  }
+]
