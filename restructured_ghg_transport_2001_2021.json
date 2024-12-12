@@ -1,0 +1,422 @@
+[
+    {
+        "Year": 2001,
+        "Transport Type": "Private Transport (Direct and Indirect)",
+        "Total": 1.35
+    },
+    {
+        "Year": 2001,
+        "Transport Type": "Public Transport",
+        "Total": 0.68
+    },
+    {
+        "Year": 2001,
+        "Transport Type": "Other Transport Services",
+        "Total": 0.24
+    },
+    {
+        "Year": 2001,
+        "Transport Type": "Aviation",
+        "Total": 0.33
+    },
+    {
+        "Year": 2002,
+        "Transport Type": "Private Transport (Direct and Indirect)",
+        "Total": 1.38
+    },
+    {
+        "Year": 2002,
+        "Transport Type": "Public Transport",
+        "Total": 0.76
+    },
+    {
+        "Year": 2002,
+        "Transport Type": "Other Transport Services",
+        "Total": 0.12
+    },
+    {
+        "Year": 2002,
+        "Transport Type": "Aviation",
+        "Total": 0.47
+    },
+    {
+        "Year": 2003,
+        "Transport Type": "Private Transport (Direct and Indirect)",
+        "Total": 1.54
+    },
+    {
+        "Year": 2003,
+        "Transport Type": "Public Transport",
+        "Total": 0.61
+    },
+    {
+        "Year": 2003,
+        "Transport Type": "Other Transport Services",
+        "Total": 0.09
+    },
+    {
+        "Year": 2003,
+        "Transport Type": "Aviation",
+        "Total": 0.38
+    },
+    {
+        "Year": 2004,
+        "Transport Type": "Private Transport (Direct and Indirect)",
+        "Total": 1.38
+    },
+    {
+        "Year": 2004,
+        "Transport Type": "Public Transport",
+        "Total": 0.67
+    },
+    {
+        "Year": 2004,
+        "Transport Type": "Other Transport Services",
+        "Total": 0.14
+    },
+    {
+        "Year": 2004,
+        "Transport Type": "Aviation",
+        "Total": 0.51
+    },
+    {
+        "Year": 2005,
+        "Transport Type": "Private Transport (Direct and Indirect)",
+        "Total": 1.49
+    },
+    {
+        "Year": 2005,
+        "Transport Type": "Public Transport",
+        "Total": 0.72
+    },
+    {
+        "Year": 2005,
+        "Transport Type": "Other Transport Services",
+        "Total": 0.24
+    },
+    {
+        "Year": 2005,
+        "Transport Type": "Aviation",
+        "Total": 0.49
+    },
+    {
+        "Year": 2006,
+        "Transport Type": "Private Transport (Direct and Indirect)",
+        "Total": 1.44
+    },
+    {
+        "Year": 2006,
+        "Transport Type": "Public Transport",
+        "Total": 0.77
+    },
+    {
+        "Year": 2006,
+        "Transport Type": "Other Transport Services",
+        "Total": 0.13
+    },
+    {
+        "Year": 2006,
+        "Transport Type": "Aviation",
+        "Total": 0.46
+    },
+    {
+        "Year": 2007,
+        "Transport Type": "Private Transport (Direct and Indirect)",
+        "Total": 1.44
+    },
+    {
+        "Year": 2007,
+        "Transport Type": "Public Transport",
+        "Total": 0.73
+    },
+    {
+        "Year": 2007,
+        "Transport Type": "Other Transport Services",
+        "Total": 0.21
+    },
+    {
+        "Year": 2007,
+        "Transport Type": "Aviation",
+        "Total": 0.58
+    },
+    {
+        "Year": 2008,
+        "Transport Type": "Private Transport (Direct and Indirect)",
+        "Total": 1.27
+    },
+    {
+        "Year": 2008,
+        "Transport Type": "Public Transport",
+        "Total": 0.62
+    },
+    {
+        "Year": 2008,
+        "Transport Type": "Other Transport Services",
+        "Total": 0.19
+    },
+    {
+        "Year": 2008,
+        "Transport Type": "Aviation",
+        "Total": 0.68
+    },
+    {
+        "Year": 2009,
+        "Transport Type": "Private Transport (Direct and Indirect)",
+        "Total": 1.12
+    },
+    {
+        "Year": 2009,
+        "Transport Type": "Public Transport",
+        "Total": 0.47
+    },
+    {
+        "Year": 2009,
+        "Transport Type": "Other Transport Services",
+        "Total": 0.32
+    },
+    {
+        "Year": 2009,
+        "Transport Type": "Aviation",
+        "Total": 0.48
+    },
+    {
+        "Year": 2010,
+        "Transport Type": "Private Transport (Direct and Indirect)",
+        "Total": 1.2
+    },
+    {
+        "Year": 2010,
+        "Transport Type": "Public Transport",
+        "Total": 0.54
+    },
+    {
+        "Year": 2010,
+        "Transport Type": "Other Transport Services",
+        "Total": 0.17
+    },
+    {
+        "Year": 2010,
+        "Transport Type": "Aviation",
+        "Total": 0.64
+    },
+    {
+        "Year": 2011,
+        "Transport Type": "Private Transport (Direct and Indirect)",
+        "Total": 1.07
+    },
+    {
+        "Year": 2011,
+        "Transport Type": "Public Transport",
+        "Total": 0.52
+    },
+    {
+        "Year": 2011,
+        "Transport Type": "Other Transport Services",
+        "Total": 0.12
+    },
+    {
+        "Year": 2011,
+        "Transport Type": "Aviation",
+        "Total": 0.55
+    },
+    {
+        "Year": 2012,
+        "Transport Type": "Private Transport (Direct and Indirect)",
+        "Total": 0.97
+    },
+    {
+        "Year": 2012,
+        "Transport Type": "Public Transport",
+        "Total": 0.46
+    },
+    {
+        "Year": 2012,
+        "Transport Type": "Other Transport Services",
+        "Total": 0.13
+    },
+    {
+        "Year": 2012,
+        "Transport Type": "Aviation",
+        "Total": 0.43
+    },
+    {
+        "Year": 2013,
+        "Transport Type": "Private Transport (Direct and Indirect)",
+        "Total": 1.07
+    },
+    {
+        "Year": 2013,
+        "Transport Type": "Public Transport",
+        "Total": 0.48
+    },
+    {
+        "Year": 2013,
+        "Transport Type": "Other Transport Services",
+        "Total": 0.28
+    },
+    {
+        "Year": 2013,
+        "Transport Type": "Aviation",
+        "Total": 0.76
+    },
+    {
+        "Year": 2014,
+        "Transport Type": "Private Transport (Direct and Indirect)",
+        "Total": 1.13
+    },
+    {
+        "Year": 2014,
+        "Transport Type": "Public Transport",
+        "Total": 0.47
+    },
+    {
+        "Year": 2014,
+        "Transport Type": "Other Transport Services",
+        "Total": 0.21
+    },
+    {
+        "Year": 2014,
+        "Transport Type": "Aviation",
+        "Total": 0.63
+    },
+    {
+        "Year": 2015,
+        "Transport Type": "Private Transport (Direct and Indirect)",
+        "Total": 0.92
+    },
+    {
+        "Year": 2015,
+        "Transport Type": "Public Transport",
+        "Total": 0.45
+    },
+    {
+        "Year": 2015,
+        "Transport Type": "Other Transport Services",
+        "Total": 0.5
+    },
+    {
+        "Year": 2015,
+        "Transport Type": "Aviation",
+        "Total": 0.64
+    },
+    {
+        "Year": 2016,
+        "Transport Type": "Private Transport (Direct and Indirect)",
+        "Total": 0.95
+    },
+    {
+        "Year": 2016,
+        "Transport Type": "Public Transport",
+        "Total": 0.46
+    },
+    {
+        "Year": 2016,
+        "Transport Type": "Other Transport Services",
+        "Total": 0.19
+    },
+    {
+        "Year": 2016,
+        "Transport Type": "Aviation",
+        "Total": 0.3
+    },
+    {
+        "Year": 2017,
+        "Transport Type": "Private Transport (Direct and Indirect)",
+        "Total": 1.05
+    },
+    {
+        "Year": 2017,
+        "Transport Type": "Public Transport",
+        "Total": 0.38
+    },
+    {
+        "Year": 2017,
+        "Transport Type": "Other Transport Services",
+        "Total": 0.24
+    },
+    {
+        "Year": 2017,
+        "Transport Type": "Aviation",
+        "Total": 0.35
+    },
+    {
+        "Year": 2018,
+        "Transport Type": "Private Transport (Direct and Indirect)",
+        "Total": 1.07
+    },
+    {
+        "Year": 2018,
+        "Transport Type": "Public Transport",
+        "Total": 0.4
+    },
+    {
+        "Year": 2018,
+        "Transport Type": "Other Transport Services",
+        "Total": 0.12
+    },
+    {
+        "Year": 2018,
+        "Transport Type": "Aviation",
+        "Total": 0.39
+    },
+    {
+        "Year": 2019,
+        "Transport Type": "Private Transport (Direct and Indirect)",
+        "Total": 0.85
+    },
+    {
+        "Year": 2019,
+        "Transport Type": "Public Transport",
+        "Total": 0.38
+    },
+    {
+        "Year": 2019,
+        "Transport Type": "Other Transport Services",
+        "Total": 0.13
+    },
+    {
+        "Year": 2019,
+        "Transport Type": "Aviation",
+        "Total": 0.32
+    },
+    {
+        "Year": 2020,
+        "Transport Type": "Private Transport (Direct and Indirect)",
+        "Total": 0.7
+    },
+    {
+        "Year": 2020,
+        "Transport Type": "Public Transport",
+        "Total": 0.2
+    },
+    {
+        "Year": 2020,
+        "Transport Type": "Other Transport Services",
+        "Total": 0.14
+    },
+    {
+        "Year": 2020,
+        "Transport Type": "Aviation",
+        "Total": 0.35
+    },
+    {
+        "Year": 2021,
+        "Transport Type": "Private Transport (Direct and Indirect)",
+        "Total": 0.78
+    },
+    {
+        "Year": 2021,
+        "Transport Type": "Public Transport",
+        "Total": 0.19
+    },
+    {
+        "Year": 2021,
+        "Transport Type": "Other Transport Services",
+        "Total": 0.16
+    },
+    {
+        "Year": 2021,
+        "Transport Type": "Aviation",
+        "Total": 0.21
+    }
+]
