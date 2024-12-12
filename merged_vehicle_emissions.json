@@ -1,0 +1,266 @@
+[
+    {
+        "LA name": "Barking and Dagenham",
+        "Motorcycle tCO2": 955,
+        "Taxi tCO2": 1121,
+        "Car tCO2": 57937,
+        "Bus and Coach tCO2": 13608,
+        "ElectricCar tCO2": 141
+    },
+    {
+        "LA name": "Barnet",
+        "Motorcycle tCO2": 3117,
+        "Taxi tCO2": 2261,
+        "Car tCO2": 177492,
+        "Bus and Coach tCO2": 33259,
+        "ElectricCar tCO2": 468
+    },
+    {
+        "LA name": "Bexley",
+        "Motorcycle tCO2": 1627,
+        "Taxi tCO2": 1120,
+        "Car tCO2": 102173,
+        "Bus and Coach tCO2": 18331,
+        "ElectricCar tCO2": 245
+    },
+    {
+        "LA name": "Brent",
+        "Motorcycle tCO2": 1901,
+        "Taxi tCO2": 1082,
+        "Car tCO2": 86685,
+        "Bus and Coach tCO2": 22109,
+        "ElectricCar tCO2": 256
+    },
+    {
+        "LA name": "Bromley",
+        "Motorcycle tCO2": 2033,
+        "Taxi tCO2": 1312,
+        "Car tCO2": 140405,
+        "Bus and Coach tCO2": 23498,
+        "ElectricCar tCO2": 369
+    },
+    {
+        "LA name": "Camden",
+        "Motorcycle tCO2": 2422,
+        "Taxi tCO2": 7480,
+        "Car tCO2": 40781,
+        "Bus and Coach tCO2": 18581,
+        "ElectricCar tCO2": 168
+    },
+    {
+        "LA name": "City of London",
+        "Motorcycle tCO2": 974,
+        "Taxi tCO2": 4564,
+        "Car tCO2": 4201,
+        "Bus and Coach tCO2": 7918,
+        "ElectricCar tCO2": 37
+    },
+    {
+        "LA name": "Croydon",
+        "Motorcycle tCO2": 1775,
+        "Taxi tCO2": 1386,
+        "Car tCO2": 120413,
+        "Bus and Coach tCO2": 24060,
+        "ElectricCar tCO2": 318
+    },
+    {
+        "LA name": "Ealing",
+        "Motorcycle tCO2": 2499,
+        "Taxi tCO2": 1574,
+        "Car tCO2": 124156,
+        "Bus and Coach tCO2": 26746,
+        "ElectricCar tCO2": 336
+    },
+    {
+        "LA name": "Enfield",
+        "Motorcycle tCO2": 2188,
+        "Taxi tCO2": 2228,
+        "Car tCO2": 164000,
+        "Bus and Coach tCO2": 23066,
+        "ElectricCar tCO2": 512
+    },
+    {
+        "LA name": "Greenwich",
+        "Motorcycle tCO2": 2643,
+        "Taxi tCO2": 1930,
+        "Car tCO2": 100636,
+        "Bus and Coach tCO2": 28096,
+        "ElectricCar tCO2": 332
+    },
+    {
+        "LA name": "Hackney",
+        "Motorcycle tCO2": 1695,
+        "Taxi tCO2": 2284,
+        "Car tCO2": 37883,
+        "Bus and Coach tCO2": 18841,
+        "ElectricCar tCO2": 151
+    },
+    {
+        "LA name": "Hammersmith and Fulham",
+        "Motorcycle tCO2": 1793,
+        "Taxi tCO2": 2480,
+        "Car tCO2": 43067,
+        "Bus and Coach tCO2": 14666,
+        "ElectricCar tCO2": 177
+    },
+    {
+        "LA name": "Haringey",
+        "Motorcycle tCO2": 1989,
+        "Taxi tCO2": 1443,
+        "Car tCO2": 51588,
+        "Bus and Coach tCO2": 16333,
+        "ElectricCar tCO2": 225
+    },
+    {
+        "LA name": "Harrow",
+        "Motorcycle tCO2": 1042,
+        "Taxi tCO2": 717,
+        "Car tCO2": 78432,
+        "Bus and Coach tCO2": 13054,
+        "ElectricCar tCO2": 194
+    },
+    {
+        "LA name": "Havering",
+        "Motorcycle tCO2": 2024,
+        "Taxi tCO2": 1867,
+        "Car tCO2": 163362,
+        "Bus and Coach tCO2": 22358,
+        "ElectricCar tCO2": 512
+    },
+    {
+        "LA name": "Hillingdon",
+        "Motorcycle tCO2": 2446,
+        "Taxi tCO2": 2474,
+        "Car tCO2": 188000,
+        "Bus and Coach tCO2": 28753,
+        "ElectricCar tCO2": 506
+    },
+    {
+        "LA name": "Hounslow",
+        "Motorcycle tCO2": 2258,
+        "Taxi tCO2": 3854,
+        "Car tCO2": 134397,
+        "Bus and Coach tCO2": 24486,
+        "ElectricCar tCO2": 356
+    },
+    {
+        "LA name": "Islington",
+        "Motorcycle tCO2": 1522,
+        "Taxi tCO2": 3690,
+        "Car tCO2": 25581,
+        "Bus and Coach tCO2": 14626,
+        "ElectricCar tCO2": 112
+    },
+    {
+        "LA name": "Kensington and Chelsea",
+        "Motorcycle tCO2": 1827,
+        "Taxi tCO2": 6300,
+        "Car tCO2": 37120,
+        "Bus and Coach tCO2": 16380,
+        "ElectricCar tCO2": 141
+    },
+    {
+        "LA name": "Kingston upon Thames",
+        "Motorcycle tCO2": 1178,
+        "Taxi tCO2": 1017,
+        "Car tCO2": 75557,
+        "Bus and Coach tCO2": 11561,
+        "ElectricCar tCO2": 181
+    },
+    {
+        "LA name": "Lambeth",
+        "Motorcycle tCO2": 2114,
+        "Taxi tCO2": 3221,
+        "Car tCO2": 52574,
+        "Bus and Coach tCO2": 27445,
+        "ElectricCar tCO2": 199
+    },
+    {
+        "LA name": "Lewisham",
+        "Motorcycle tCO2": 1674,
+        "Taxi tCO2": 1373,
+        "Car tCO2": 58426,
+        "Bus and Coach tCO2": 20362,
+        "ElectricCar tCO2": 198
+    },
+    {
+        "LA name": "Merton",
+        "Motorcycle tCO2": 992,
+        "Taxi tCO2": 952,
+        "Car tCO2": 66080,
+        "Bus and Coach tCO2": 14780,
+        "ElectricCar tCO2": 162
+    },
+    {
+        "LA name": "Newham",
+        "Motorcycle tCO2": 2598,
+        "Taxi tCO2": 2528,
+        "Car tCO2": 71166,
+        "Bus and Coach tCO2": 18562,
+        "ElectricCar tCO2": 281
+    },
+    {
+        "LA name": "Redbridge",
+        "Motorcycle tCO2": 2063,
+        "Taxi tCO2": 2183,
+        "Car tCO2": 120117,
+        "Bus and Coach tCO2": 18095,
+        "ElectricCar tCO2": 316
+    },
+    {
+        "LA name": "Richmond",
+        "Motorcycle tCO2": 1152,
+        "Taxi tCO2": 888,
+        "Car tCO2": 70094,
+        "Bus and Coach tCO2": 15021,
+        "ElectricCar tCO2": 195
+    },
+    {
+        "LA name": "Southwark",
+        "Motorcycle tCO2": 2342,
+        "Taxi tCO2": 3349,
+        "Car tCO2": 46183,
+        "Bus and Coach tCO2": 25374,
+        "ElectricCar tCO2": 201
+    },
+    {
+        "LA name": "Sutton",
+        "Motorcycle tCO2": 825,
+        "Taxi tCO2": 589,
+        "Car tCO2": 59227,
+        "Bus and Coach tCO2": 11521,
+        "ElectricCar tCO2": 155
+    },
+    {
+        "LA name": "Tower Hamlets",
+        "Motorcycle tCO2": 2511,
+        "Taxi tCO2": 4097,
+        "Car tCO2": 54315,
+        "Bus and Coach tCO2": 16804,
+        "ElectricCar tCO2": 229
+    },
+    {
+        "LA name": "Waltham Forest",
+        "Motorcycle tCO2": 2086,
+        "Taxi tCO2": 1696,
+        "Car tCO2": 74362,
+        "Bus and Coach tCO2": 16273,
+        "ElectricCar tCO2": 256
+    },
+    {
+        "LA name": "Wandsworth",
+        "Motorcycle tCO2": 1716,
+        "Taxi tCO2": 1971,
+        "Car tCO2": 68380,
+        "Bus and Coach tCO2": 20519,
+        "ElectricCar tCO2": 198
+    },
+    {
+        "LA name": "Westminster",
+        "Motorcycle tCO2": 4285,
+        "Taxi tCO2": 24616,
+        "Car tCO2": 47262,
+        "Bus and Coach tCO2": 37702,
+        "ElectricCar tCO2": 236
+    }
+]
