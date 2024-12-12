@@ -1,0 +1,30 @@
+[
+    {
+        "LA name":"Barking and Dagenham",
+        "LA code":"UKI2101",
+        "Motorcycle tCO2":955,
+        "Taxi tCO2":1121,
+        "Car tCO2":57937,
+        "PHV tCO2":1639,
+        "LGV tCO2":18914,
+        "Bus and Coach tCO2":13608,
+        "Rigid tCO2":16798,
+        "Artic tCO2":10014,
+        "All vehicles excluding electric tCO2":120987,
+        "tCO2e - CH4":129,
+        "tCO2e - N2O":1176,
+        "Total tCO2e":122293,
+        "Motorcycles Electric tCO2":1,
+        "Taxi Electric tCO2":59,
+        "Car Electric tCO2":141,
+        "PHV Electric tCO2":24,
+        "LGV Electric tCO2":15,
+        "Bus & Coach Electric tCO2":47,
+        "Rigid HGVs Electric tCO2":0,
+        "Articulated HGVs Electric tCO2":0,
+        "Total Electric tCO2":288,
+        "Electric tCH4":1,
+        "Electric tN2O":2,
+        "Total Electric tCO2e":291
+    }
+]
